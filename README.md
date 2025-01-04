@@ -6,7 +6,7 @@ This project focuses on predicting breast cancer diagnoses using advanced machin
 Machine Learning Models Used:
 Artificial Neural Network (ANN)
 Support Vector Machine (SVM)
-Random Forest (RF)
+Random Forest (RF) classifier
 LightGBM
 Extreme Gradient Boosting (XGBoost)
 Adaptive Boosting (AdaBoost)
