@@ -1,6 +1,7 @@
 # BreastCancer
 
-This project focuses on predicting breast cancer diagnoses using advanced machine learning techniques. It leverages a dataset (Breast_Cancer.csv) containing patient diagnostic information and evaluates the performance of eight machine learning models for research purposes.
+Problem Statement:
+This project focuses on predicting breast cancer diagnoses (malignant or benign) using advanced machine learning techniques. It leverages a dataset (Breast_Cancer.csv) containing patient diagnostic information and evaluates the performance of eight machine learning models for research purposes.
 
 --- Key Highlights ----
 Machine Learning Models Used:
